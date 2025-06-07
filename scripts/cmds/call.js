@@ -5,7 +5,7 @@ module.exports.config = {
   aliases: ["report"],
   version: "1.0.0",
   role: 0,
-  author: "dipto",
+  author: "Limon",
   description: "Send a call/report to bot admins and operators.",
   usePrefix: true,
   guide: "[message]",
