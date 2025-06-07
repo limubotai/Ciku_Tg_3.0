@@ -1,5 +1,5 @@
 {
-  "name": "Bot'Bee",
+  "name": "ciku",
   "version": "1.0.0",
   "description": "A custom Telegram bot built by Dipto for various automated tasks.",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "bot",
     "automation",
     "nodejs",
-    "Dipto",
+    "Limon",
     "Bot Bee",
     "Bot'Bee",
     "Bee",
