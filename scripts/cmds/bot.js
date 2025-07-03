@@ -1,3 +1,4 @@
+
 const axios = require('axios');
 
 const baseApiUrl = async () => {
@@ -8,9 +9,9 @@ const baseApiUrl = async () => {
 }; 
 
 module.exports.config = {
-    name: "babe",
+    name: "bby",
     version: "1.0",
-    credits: "Dipto",
+    credits: "limon",
     role: 0,
     usePrefix: true,
     description: "Talk to baby bot",
