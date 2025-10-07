@@ -9,7 +9,7 @@
   "prefix": ".",
   "api": "https://www.noobs-api.top/dipto",
   "database": {
-    "mongo": true,
+    "mongo": false,
     "json": false
   },
   "adminBot": [
