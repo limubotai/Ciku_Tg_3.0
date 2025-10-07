@@ -4,13 +4,9 @@
   "adminName": "Limon",
   "botName": "Ciku",
   "token": "8065278756:AAFKpsq5_Z04NhqSa0reDPrTq-cszdrHX8o",
-"mongodbURI":"",
-  "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
   "prefix": "/",
   "api": "https://www.noobs-api.top/dipto",
-  "database": {
-    "mongo": false,
-    "json": false
+
   },
   "adminBot": [
     1864329584
